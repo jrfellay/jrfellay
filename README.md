@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jrfellay
-- 👀 I’m interested in Linux DevOps.
+- 👀 I’m interested in GNU/Linux and DevOps.
 - 🌱 I’m currently learning C and python.
 
 <!---
