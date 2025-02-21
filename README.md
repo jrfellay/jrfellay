@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrfellay
-- 👀 I’m interested in Machine Learning, High Performance Computing and Parallel Computing, and Computational Fluid Dynamics.
-- 🌱 I’m currently learning C++, python, OpenFOAM and FreeCAD.
+- 👀 I’m interested in Linux DevOps.
+- 🌱 I’m currently learning C and python.
 
 <!---
 jrfellay/jrfellay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
